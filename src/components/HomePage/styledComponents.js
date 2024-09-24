@@ -31,7 +31,7 @@ export const TextArea = styled.textarea`
   margin-top: 8px;
 
   @media(min-width : 768px){
-    max-width : 682px;
+    max-width : 768px;
   }
 `
 

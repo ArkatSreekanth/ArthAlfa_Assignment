@@ -1,4 +1,4 @@
-import GreetUser from './components/GreetUser'
+import GreetUser from './components/HomePage'
 
 import {GlobalStyle} from './styledComponents'
 
